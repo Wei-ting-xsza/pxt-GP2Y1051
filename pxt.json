@@ -4,8 +4,7 @@
     "description": "Sharp GP2Y1051.",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
